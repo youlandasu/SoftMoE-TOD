@@ -1,0 +1,14 @@
+__pycache__/
+__MACOSX/
+raw_dataset
+experiments
+adapter-transformers
+checkpoints/
+README.md
+base.zip
+.gitignore.swp
+ckpt/
+reinforce.py
+wandb/
+data/
+*.pt

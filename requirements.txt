@@ -1,0 +1,19 @@
+absl-py
+pytest
+sacrebleu==1.4.10
+six
+wheel
+progressbar
+scikit-learn
+transformers==4.7.0
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.11.0+cu113
+pyyaml
+nltk
+sentencepiece
+spacy
+gdown
+lexical-diversity
+fuzzywuzzy
+python-Levenshtein
+soft-mixture-of-experts
